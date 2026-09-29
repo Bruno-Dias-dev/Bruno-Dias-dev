@@ -1,16 +1,14 @@
 # 👋 Olá! Eu sou o Bruno
 
-💻 **Desenvolvedor em formação | Automação | IA | Python | Infraestrutura**
+💻 **Desenvolvedor Jr**
 
-Sou estudante de **Ciência da Computação** e atuo na área de TI, trabalhando com desenvolvimento, automação de processos, infraestrutura e integração de sistemas.
-
-Gosto de transformar problemas do dia a dia em **soluções automatizadas, simples e escaláveis**.
+Sou formado em **Análise e desenvolvimento de sistenas* e atuo na área de TI, trabalhando com desenvolvimento, automação de processos e infraestrutura.
 
 ---
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante de **Ciência da Computação**
+* 🎓 Formado em **Análise e desenvolvimento de sistenas**
 * 💻 Desenvolvimento de aplicações e APIs
 * 🤖 Automação de processos com **n8n**
 * 🧠 Integração de **IA em sistemas**
@@ -118,11 +116,11 @@ e criando soluções que tenham impacto real.
 
 ## 📫 Vamos conversar?
 
-💼 **LinkedIn:** [Meu LinkedIn](SEU_LINKEDIN)
+💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/bruno-dias-360455249/)
 
-📧 **Email:** SEU_EMAIL
+📧 **Email:** hamiltonbrunodias@gmail.com.br
 
-🌐 **Portfólio:** SEU_PORTFOLIO
+🌐 **Portfólio:** 
 
 ---
 
