@@ -76,16 +76,17 @@ Experimentos e projetos envolvendo **LLMs, RAG, APIs de IA e automação**, busc
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Familiaridade
 
 ```text
-Python              █████████░  90%
-JavaScript          ████████░░  80%
-SQL / MySQL         ████████░░  80%
-n8n                 █████████░  90%
-Docker              ███████░░░  70%
-Linux               ███████░░░  70%
-IA / LLMs           ███████░░░  70%
+Python              ████████░░  80%
+JavaScript          ███████░░░  70%
+n8n                 ████████░░  80%
+SQL / MySQL         ███████░░░  70%
+IA / LLMs           ██████░░░░  60%
+Linux               █████░░░░░  50%
+Estatística         ███░░░░░░░  30%
+Redes               ██░░░░░░░░  25%
 ```
 
 > Evoluindo um commit por vez. 🚀
