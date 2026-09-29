@@ -6,7 +6,7 @@ Sou formado em **Análise e desenvolvimento de sistenas* e atuo na área de TI, 
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 * 🎓 Formado em **Análise e desenvolvimento de sistenas**
 * 💻 Desenvolvimento de aplicações e APIs
