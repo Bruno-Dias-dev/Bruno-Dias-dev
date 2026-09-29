@@ -127,7 +127,7 @@ e criando soluções que tenham impacto real.
 
 <div align="center">
 
-### 💻 `Code. Automate. Learn. Repeat.`
+### 💻 `A dúvida é o princípio da sabedoria.” — Aristóteles`
 
 ⭐ Se algum projeto te ajudar, considere deixar uma estrela!
 
