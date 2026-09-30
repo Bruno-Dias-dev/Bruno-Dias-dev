@@ -10,7 +10,7 @@ Sou formado em **Análise e desenvolvimento de sistenas** e atuo na área de TI,
 
 * 🎓 Formado em **Análise e desenvolvimento de sistenas**
 * 💻 Desenvolvimento de aplicações
-* 🤖 Automação de processos
+* ⚙️ Automação de processos
 * 🧠 Integração de **IA em sistemas**
 * 🗄️ Bancos de dados e integrações
 * 🐳 Docker e ambientes self-hosted
@@ -119,9 +119,9 @@ Redes               ██░░░░░░░░  25%
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Dias-devO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Dias-dev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
