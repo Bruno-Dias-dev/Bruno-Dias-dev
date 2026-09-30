@@ -2,15 +2,15 @@
 
 💻 **Desenvolvedor Jr**
 
-Sou formado em **Análise e desenvolvimento de sistenas* e atuo na área de TI, trabalhando com desenvolvimento, automação de processos e infraestrutura.
+Sou formado em **Análise e desenvolvimento de sistenas** e atuo na área de TI, trabalhando com desenvolvimento, automação de processos e infraestrutura.
 
 ---
 
 ## Sobre mim
 
 * 🎓 Formado em **Análise e desenvolvimento de sistenas**
-* 💻 Desenvolvimento de aplicações e APIs
-* 🤖 Automação de processos com **n8n**
+* 💻 Desenvolvimento de aplicações
+* 🤖 Automação de processos
 * 🧠 Integração de **IA em sistemas**
 * 🗄️ Bancos de dados e integrações
 * 🐳 Docker e ambientes self-hosted
@@ -21,19 +21,19 @@ Sou formado em **Análise e desenvolvimento de sistenas* e atuo na área de TI, 
 
 ## 🛠️ Tecnologias
 
-### 💻 Desenvolvimento
+### Desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🤖 Automação & IA
+### Automação & IA
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
@@ -47,34 +47,56 @@ Sou formado em **Análise e desenvolvimento de sistenas* e atuo na área de TI, 
 
 ## 🔥 Projetos em destaque
 
-### 🧠 Monitor.ia
+### Zeca
 
-Sistema de monitoramento e avaliação de atendimentos utilizando **Inteligência Artificial**.
+Assistente de IA para atendimento automatizado via WhatsApp, com envio de cardápio, processamento de pedidos, cálculo automático e geração de pagamento via PIX.
 
-O projeto integra processamento de áudio, análise automática de atendimentos, banco de dados e visualização de indicadores.
+Tecnologias:
+n8n Python WhatsApp APIs IA
 
-**Tecnologias:**
-`Python` `Flask` `MySQL` `Google Gemini` `JavaScript` `Chart.js` `Excel`
+### Monitor.ia
 
----
+Plataforma para centralização de métricas de atendimento, monitoramento de agentes com Inteligência Artificial e avaliação automatizada de atendimentos telefônicos.
 
-### ⚙️ Automação WhatsApp
+Integra dashboards, processamento de dados, análise de chamadas e um chat com IA para consulta e avaliação dos atendimentos.
 
-Automação para gerenciamento e disparo de mensagens utilizando integrações com APIs, banco de dados e workflows.
+Tecnologias:
+`Python` `JavaScript` `SQL` `Flask` `Google` `Gemini` `Chart.js`
 
-**Tecnologias:**
-`n8n` `JavaScript` `MySQL` `Evolution API` `WhatsApp`
+### Sistema Multiagente
 
----
+Sistema baseado em múltiplos agentes de IA para atendimento e consultoria jurídica, integrado ao omnichannel e às plataformas Microsoft Teams e Outlook para automação do agendamento de reuniões.
 
-### 🤖 Integrações com IA
+Tecnologias:
+`JavaScript` `n8n` `Gemini` `Azure` `APIs`
 
-Experimentos e projetos envolvendo **LLMs, RAG, APIs de IA e automação**, buscando aplicar inteligência artificial em processos reais.
+### Clone — Página do Instagram
 
-**Tecnologias:**
-`Python` `n8n` `Gemini` `Pinecone` `Cohere` `APIs`
+Clone da página de login do Instagram desenvolvido com foco em responsividade, fidelidade visual e adaptação para diferentes dispositivos, incluindo desktop e mobile.
 
----
+Tecnologias:
+`HTML5` `CSS3` `Flexbox` `JavaScript`
+
+### Portal de Atendimento Contém
+
+Implementação e customização do osTicket, plataforma open source de Service Desk, integrada aos sistemas internos e automações do Grupo Contém para centralização e gerenciamento de atendimentos.
+
+Tecnologias:
+`PHP` `Bootstrap` `JavaScript` `SQL` `osTicket`
+
+### Disparador de Mensagens
+
+Desenvolvimento de sistema automatizado para envio de mensagens via WhatsApp, com suporte a texto, imagens e agendamento programado, integrado a banco de dados e APIs de comunicação.
+
+Tecnologias:
+`HTML5` `Bootstrap` `CSS3` `JavaScript` `n8n` `MySQL` `Evolution API`
+
+ ### Leads
+
+Implementação e customização do EspoCRM, plataforma open source de CRM, adaptada às necessidades do negócio e integrada às demais ferramentas e sistemas utilizados pela empresa.
+
+Tecnologias:
+`PHP` `JavaScript` `CSS3` `TypeScript` `SQL` 
 
 ## 📚 Familiaridade
 
@@ -107,11 +129,9 @@ Redes               ██░░░░░░░░  25%
 
 ## 🎯 Objetivo
 
-Continuar evoluindo como desenvolvedor, unindo:
+Continuar evoluindo como desenvolvedor e sempre aprender e usar tecnologias novas
+e criando soluções empresarias e pessoasis  que tenham sejam usados por muitas pessoas 
 
-**Desenvolvimento + Automação + Inteligência Artificial + Infraestrutura**
-
-e criando soluções que tenham impacto real.
 
 ---
 
