@@ -9,7 +9,7 @@ Sou formado em **Análise e desenvolvimento de sistenas** e atuo na área de TI,
 ## Sobre mim
 
 * 🎓 Formado em **Análise e desenvolvimento de sistenas**
-* * 📚 Pós-Graduação em **Engenharia de Software com IA aplicada** (em andamento)
+* 📚 Pós-Graduação em **Engenharia de Software com IA aplicada** (em andamento)
 * 💻 Desenvolvimento de aplicações
 * ⚙️ Automação de processos
 * 🧠 Integração de **IA em sistemas**
