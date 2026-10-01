@@ -138,6 +138,4 @@ e criando soluções empresarias e pessoasis  que tenham sejam usados por muitas
 
 ### 💻 `A dúvida é o princípio da sabedoria.” — Aristóteles`
 
-⭐ Se algum projeto te ajudar, considere deixar uma estrela!
-
 </div>
